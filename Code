@@ -1,17 +1,15 @@
 <!DOCTYPE html>
+<head>
+  <title>Apple</title>
+</head>
 <h1 style="color:blue;">The Apple</h1>
 <body style='background-color:lightgoldenrodyellow;' >
   
-  <p style="color:green;">
-Apples migrated in the United States with the help of the Puritans who brought seeds of apple trees. It states in the text “Seeds were brought to the colonies by the Puritans in the Massachusetts Bay Colony” (Colleart). This shows that the Puritans who lived in the Massachusetts Bay Colony spread apples seeds to other colonies. It states in this quote that the Puritans shared seeds to the other colonies which started the spread of apple seeds to the rest of the world. Which shows that apples didn’t originate in the United States instead they were brought here. The spreading of the apple seeds helped in the overall growth of apple trees in the United States. To conclude apples weren’t always in the United states the Puritans were the ones who spread apple seeds to the rest of the colonies which is how apples migrated to the United States.
-<p>
+    <button onclick='DoSomething()' style='background-color: #333333; color: #00FF00; border-radius: 5px;'>Click the button</button>
 
-  <p style='color:purple;'>America’s preference for apples has changed a lot over time for example cider apples used to be one of the most popular apples used but during prohibition people weren’t even allowed to use them anymore. It states that “ Cider’s popularity was owed, in part, to the widespread availability of cider apples and the ability to make cider in one’s own home. Within a relatively brief period of time, hundreds of apple varieties unique to the United States were destroyed ” (Colleart). This quote shows how the cider apples which at one point in time used to be the most popular apples to be grown were then banned and hundreds of apple varieties were banned. This shows how the change of laws and bans can affect everyday foods such as apples when they were banned during prohibition. This is very important because there are constantly new types of apples being made and if one day the country decides to ban red apples then hundreds of apple varieties will be stopped producing. Over time many people would forget about them and the citizens would slowly adapt to new types of apples that they might like even more. Americans can change preferences based on government law and also the availability of the apple, if the apple isn’t grown in their part of the country then it would be harder to get that apple and then they would change to similar variations that were closer grown. To summarize, many external and internal factors can affect a society's preferences on a certain variation of apple. It could be the availability of the apple or a ban that doesn’t let them eat the apple they usually eat. These can all affect the preferences of Americans.
-</p>
+  <p id="g">If you want to learn a little bit about the history about apples click this button</p>
+  <script src='script.js'></script>
 
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO2EFqKtpRKbwb4n8EoDtX-NVgmTnHbBbzkg&usqp=CAU" alt="apple">
-  <script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer></script> 
 </body>
 
 </html>
-
