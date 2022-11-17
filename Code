@@ -1,14 +1,16 @@
 <!DOCTYPE html>
 <head>
-  <title>Apple</title>
+  <title><center>Apple</center></title>
 </head>
-<h1 style="color:blue;">The Apple</h1>
+<h1 style="color:blue;"><center>The Apple</center></h1>
 <body style='background-color:lightgoldenrodyellow;' >
   
-    <button onclick='DoSomething()' style='background-color: #333333; color: #00FF00; border-radius: 5px;'>Click the button</button>
+    <button onclick='DoSomething()' style='background-color: #333333; color: #00FF00; border-radius: 5px; width: 300px; hight: 300px;'><center>Click the Button</center></button>
 
-  <p id="g">If you want to learn a little bit about the history about apples click this button</p>
-  <script src='script.js'></script>
+
+  <p id="g"><center>If you want to learn a little bit about the history about apples click this button</center></p>
+  <script src='script.js'> </script>
+  <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEF-lAKF-ih6i-_1QHErs7PI-Nu_dD1ms_Eg&usqp=CAU' width=”155″ height=”135″>
 
 </body>
 
